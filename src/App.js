@@ -47,7 +47,7 @@ export default function App() {
 
     {/* Texas Tech University */}
     <div>
-      <h3 className="text-xl font-semibold text-white">Student Assistant – IT Analytics Center, Texas Tech University</h3>
+      <h3 className="text-xl font-semibold text-white">Student Assistant - Texas Tech University</h3>
       <p className="text-gray-400 text-sm">Sep-2023 – May 2025</p>
       <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
         <li>Built and maintained React.js and Node.js-based web applications for analytics and data tracking tools.</li>
