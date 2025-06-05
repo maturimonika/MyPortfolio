@@ -26,7 +26,7 @@ export default function App() {
   <h2 className="text-4xl font-bold text-white mb-10 text-center">About Me</h2>
   <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center md:items-start gap-10">
     <img
-      src="/1.jpg"
+      src="/portfolioimg.png"
       alt="Monika Maturi"
       className="w-64 h-64 rounded-full border-4 border-lime-400 object-cover shadow-lg"
     />
