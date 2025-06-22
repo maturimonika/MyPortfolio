@@ -63,13 +63,13 @@ export default function App() {
       <h3 className="text-xl font-semibold text-white">Software Developer – Agile Solutions</h3>
       <p className="text-gray-400 text-sm">May 2021 – May 2023</p>
       <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
-        <li>Developed and optimized SAP HANA backend solutions integrating REST and SOAP web services for reliable enterprise data exchange.</li>
-        <li>Spearheaded XS Classic to XS Advanced (XSA) migration, reducing deployment complexity by 30% and decreasing maintenance by 25%.</li>
-        <li>Improved query execution speed by 40% through SQL optimization, Calculation Views, and stored procedures.</li>
-        <li>Created responsive UIs using React.js, HTML5, and internal dashboard components with jQuery and AJAX.</li>
-        <li>Built and tested secure SOAP-based web services and automated workflows using Postman.</li>
-        <li>Resolved critical system bugs, enhancing application stability and performance under Agile development using JIRA.</li>
-        <li>Managed GitHub version control, contributing to release planning and cross-functional collaboration.</li>
+        <li>Developed and optimized robust backend solutions leveraging SQL-based in-memory database technologies and integrating REST and SOAP web services for reliable enterprise data exchange.</li>
+        <li>Spearheaded a critical backend system modernization initiative, making key architectural decisions that reduced deployment complexity by 30% and decreased maintenance by 25%.</li>
+        <li>Improved database query execution speed by 40% through SQL optimization, complex views, and stored procedures, enhancing data processing efficiency.</li>
+        <li>Created responsive frontend UIs using React.js and HTML5 for internal dashboards, leveraging JavaScript libraries like jQuery and AJAX for dynamic content.</li>
+        <li>Built and tested secure web services (specifically SOAP-based), automating workflows and API testing using tools like Postman.</li>
+        <li>Resolved critical system bugs, enhancing application stability and performance within Agile development methodologies using JIRA.</li>
+        <li>Managed Git (GitHub) version control, contributing to release planning, code reviews, and fostering cross-functional collaboration.</li>
       </ul>
     </div>
 
