@@ -31,11 +31,11 @@ export default function App() {
       className="w-64 h-64 rounded-full border-4 border-lime-400 object-cover shadow-lg"
     />
     <p className="text-lg text-gray-300 leading-relaxed text-justify">
-      I’m Monika Maturi, a Full-Stack Developer skilled in building scalable web applications and intelligent AI-powered systems.
-      Experienced in developing modern frontend interfaces using React.js and robust backend services with Node.js, Flask, and SAP HANA.
-      Proficient in integrating REST and SOAP APIs, optimizing database performance, and implementing secure, modular architectures.
-      Adept in applying NLP and deep learning techniques using LangChain, HuggingFace, and PyTorch to create real-time, context-aware
-      applications. Passionate about solving real-world problems with clean code, modern tools, and data-driven development.
+     I’m Monika Maturi, a Full-Stack Developer with expertise in building scalable web applications and intelligent AI-powered systems. 
+      I develop modern frontend interfaces using React.js and robust backend services with Java (Spring Boot), Node.js, and Flask. 
+      I am proficient in integrating REST and SOAP APIs, optimizing database performance, and implementing secure, modular architectures. 
+      My skills extend to applying NLP and deep learning techniques using LangChain, HuggingFace, and PyTorch to create real-time, context-aware applications. 
+      I am passionate about solving real-world problems with clean code, modern tools, and data-driven development, constantly striving to deliver meaningful impact through technology.
     </p>
   </div>
 </section>
