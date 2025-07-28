@@ -46,18 +46,7 @@ export default function App() {
   <div className="max-w-5xl mx-auto space-y-10">
 
     {/* Texas Tech University */}
-    // <div>
-    //   <h3 className="text-xl font-semibold text-white">Student Assistant - Texas Tech University</h3>
-    //   <p className="text-gray-400 text-sm">Sep-2023 – May 2025</p>
-    //   <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
-    //     <li>Built and maintained React.js and Node.js-based web applications for analytics and data tracking tools.</li>
-    //     <li>Wrote modular, maintainable code to improve performance and reduce technical debt.</li>
-    //     <li>Supported testing and debugging efforts to ensure robust functionality across user-facing features.</li>
-    //     <li>Contributed to Git-based workflows and deployment best practices.</li>
-    //     <li>Collaborated with student developers and project leads to deliver feature enhancements on schedule.</li>
-    //   </ul>
-    // </div>
-
+   
     {/* Agile Solutions */}
     <div>
       <h3 className="text-xl font-semibold text-white">Software Developer – Agile Solutions</h3>
