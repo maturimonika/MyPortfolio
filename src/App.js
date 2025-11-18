@@ -31,11 +31,9 @@ export default function App() {
       className="w-64 h-64 rounded-full border-4 border-lime-400 object-cover shadow-lg"
     />
     <p className="text-lg text-gray-300 leading-relaxed text-justify">
-     I’m Monika Maturi, a Full-Stack Developer with expertise in building scalable web applications and intelligent AI-powered systems. 
-      I develop modern frontend interfaces using React.js and robust backend services with Java (Spring Boot), Node.js, and Flask. 
-      I am proficient in integrating REST and SOAP APIs, optimizing database performance, and implementing secure, modular architectures. 
-      My skills extend to applying NLP and deep learning techniques using LangChain, HuggingFace, and PyTorch to create real-time, context-aware applications. 
-      I am passionate about solving real-world problems with clean code, modern tools, and data-driven development, constantly striving to deliver meaningful impact through technology.
+     I’m Monika Maturi, an Integration Developer with expertise in building secure, scalable, and high-performance backend systems. I specialize in developing Java-based services using Spring Boot, designing REST API integrations, and automating ETL workflows that move data reliably across enterprise platforms. I am proficient in implementing system-to-system communication, optimizing SQL-based data processing, and creating cloud-aware pipelines aligned with modern architectural practices.
+
+My work includes building file-based integrations (CSV/XML/JSON), improving database performance, and developing internal JavaScript tools that enhance validation, monitoring, and operational visibility. I am passionate about solving complex integration challenges with clean architecture, automation, and strong documentation using Git, Jira, and Confluence. Driven by a focus on reliability, maintainability, and data integrity, I strive to deliver meaningful impact by connecting systems that power real-world operations.
     </p>
   </div>
 </section>
