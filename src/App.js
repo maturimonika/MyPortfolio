@@ -48,19 +48,54 @@ export default function App() {
     {/* Texas Tech University */}
    
     {/* Agile Solutions */}
-    <div>
-      <h3 className="text-xl font-semibold text-white">Software Developer – Agile Solutions</h3>
-      <p className="text-gray-400 text-sm">May 2021 – May 2023</p>
-      <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
-        <li>Developed and optimized robust backend solutions leveraging SQL-based in-memory database technologies and integrating REST and SOAP web services for reliable enterprise data exchange.</li>
-        <li>Spearheaded a critical backend system modernization initiative, making key architectural decisions that reduced deployment complexity by 30% and decreased maintenance by 25%.</li>
-        <li>Improved database query execution speed by 40% through SQL optimization, complex views, and stored procedures, enhancing data processing efficiency.</li>
-        <li>Created responsive frontend UIs using React.js and HTML5 for internal dashboards, leveraging JavaScript libraries like jQuery and AJAX for dynamic content.</li>
-        <li>Built and tested secure web services (specifically SOAP-based), automating workflows and API testing using tools like Postman.</li>
-        <li>Resolved critical system bugs, enhancing application stability and performance within Agile development methodologies using JIRA.</li>
-        <li>Managed Git (GitHub) version control, contributing to release planning, code reviews, and fostering cross-functional collaboration.</li>
-      </ul>
-    </div>
+   <div>
+  <h3 className="text-xl font-semibold text-white">Integration Developer – Hunt Consolidated</h3>
+  <p className="text-gray-400 text-sm">Feb 2025 – Present</p>
+  <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
+    <li>Designed and deployed Java/Spring Boot integrations enabling secure data exchange across internal and external systems.</li>
+    <li>Built ETL workflows and automated SQL-based data pipelines processing 50K+ daily records with improved accuracy and reliability.</li>
+    <li>Implemented file-based integration workflows (CSV/XML/JSON) with validation and error-handling to reduce failures by 45%.</li>
+    <li>Created internal JavaScript tools for data validation and operational monitoring, enhancing workflow visibility.</li>
+    <li>Collaborated with cloud and architecture teams to align integrations with AWS-driven data transfer practices.</li>
+    <li>Maintained integration documentation using Git, Jira, and Confluence, improving team onboarding and code traceability.</li>
+  </ul>
+</div>
+<div>
+  <h3 className="text-xl font-semibold text-white">Java Integration Engineer – Caterpillar</h3>
+  <p className="text-gray-400 text-sm">Jul 2024 – Jan 2025</p>
+  <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
+    <li>Developed and supported REST API integrations connecting telematics, asset tracking, and enterprise systems.</li>
+    <li>Engineered SQL-driven ETL pipelines for ingesting 100K+ operational records daily, improving processing latency.</li>
+    <li>Optimized SQL queries and indexing strategies to significantly reduce batch-processing windows.</li>
+    <li>Built backend modules and API endpoints powering internal React/JavaScript dashboards for operations teams.</li>
+    <li>Implemented secure file-transfer and API workflows with encryption, validation, and retry logic.</li>
+    <li>Documented integration mappings and deployment workflows through Git, Jira, and Confluence.</li>
+  </ul>
+</div>
+  <div>
+  <h3 className="text-xl font-semibold text-white">Integration Engineer – Agile Solutions / Barclays</h3>
+  <p className="text-gray-400 text-sm">May 2021 – Apr 2023</p>
+  <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
+    <li>Developed Java and SQL-based integrations supporting regulatory, AML, and enterprise data workflows.</li>
+    <li>Designed ETL pipelines for large-volume batch processing and data transformation across distributed systems.</li>
+    <li>Automated file feed generation, validation, and scheduled transfers to downstream banking applications.</li>
+    <li>Optimized stored procedures, complex SQL joins, and mapping logic to enhance processing speed.</li>
+    <li>Troubleshot production integration issues using structured logging and API analysis, improving system stability.</li>
+    <li>Collaborated with cross-functional teams using Git, Jira, and Confluence to streamline SDLC and release cycles.</li>
+  </ul>
+</div>
+<div>
+  <h3 className="text-xl font-semibold text-white">Software Engineer – Integrations – Meesho</h3>
+  <p className="text-gray-400 text-sm">Mar 2020 – Apr 2021</p>
+  <ul className="list-disc pl-5 text-gray-300 mt-2 space-y-1">
+    <li>Implemented Java-based API integrations connecting order, inventory, and logistics systems with real-time accuracy.</li>
+    <li>Developed ETL-style ingestion workflows to process high-volume seller and catalog data across platforms.</li>
+    <li>Integrated logistics APIs using authentication, payload validation, and retry mechanisms for reliability.</li>
+    <li>Built JavaScript-powered internal dashboards for monitoring data flows and resolving mismatches.</li>
+    <li>Optimized SQL queries for reconciliation operations, improving data consistency and reducing verification time.</li>
+    <li>Authored integration diagrams, API schemas, and mapping references for documentation across teams.</li>
+  </ul>
+</div>
 
   </div>
 </section>
